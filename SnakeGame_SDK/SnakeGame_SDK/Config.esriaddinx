@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>SnakeGame_SDK</Name>
+  <AddInID>{865ced31-9698-4a7d-a818-d610c8a1104f}</AddInID>
+  <Description>SnakeGame_SDK</Description>
+  <Version>1.0</Version>
+  <Image>Images\SnakeGame_SDK_1.png</Image>
+  <Author>HarshvardhanS</Author>
+  <Company></Company>
+  <Date>15-11-2018</Date>
+  <Targets>
+    <Target name="Desktop" version="10.3" />
+  </Targets>
+  <AddIn language="CLR" library="SnakeGame_SDK.dll" namespace="SnakeGame_SDK">
+    <ArcMap>
+      <Commands>
+        <Button id="SnakeGame_SDK_SnakeGame_SDK" class="SnakeGame_SDK" message="SnakeGame_SDK" caption="SnakeGame_SDK" tip="SnakeGame_SDK" category="SnakeGame_SDK" image="Images\SnakeGame_SDK.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

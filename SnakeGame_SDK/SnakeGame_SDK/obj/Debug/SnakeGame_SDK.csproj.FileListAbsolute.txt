@@ -1,0 +1,11 @@
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\SnakeGame_SDK.dll
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\SnakeGame_SDK.pdb
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\Snake.exe
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\Snake.pdb
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\Snake.exe.config
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\obj\Debug\SnakeGame_SDK.csproj.CoreCompileInputs.cache
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\obj\Debug\SnakeGame_SDK.dll
+c:\users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\obj\Debug\SnakeGame_SDK.pdb
+C:\Users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\obj\Debug\SnakeGame_SDK.csprojAssemblyReference.cache
+C:\Users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\obj\Debug\SnakeGame_SDK.csproj.CopyComplete
+C:\Users\harshvardhans\source\repos\SnakeGame_SDK\SnakeGame_SDK\bin\Debug\SnakeGame_SDK.esriAddIn
